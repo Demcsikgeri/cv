@@ -1,0 +1,27 @@
+#kontener{
+  margin: 0 auto;
+  width: 900px;
+}
+
+#foKontener{
+  float: left;
+  width: 900px;
+}
+
+#tartalom{
+  clear: left;
+  float: left;
+  width: 500px;
+  padding: 20px 0;
+  margin: 0 0 0 30px;
+  display: inline;
+}
+
+#menu{
+  float: right;
+  width: 260px;
+  padding: 20px 0;
+  margin: 0 20px 0 0;
+  display: inline;
+  background-color: #CCCCCC;
+}
